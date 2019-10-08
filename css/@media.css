@@ -1,0 +1,114 @@
+@media only screen and (max-width: 660px){
+    
+    #brand a{
+        font-size: 16px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif
+    }
+      #brand span {
+        font-size: 14px;
+        color: white;
+        /* font-family: 'Times New Roman', Times, serif */
+    }
+   body{
+       background-color: lightgreen;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+
+  
+   .card-an p:nth-child(1){
+       font-size: 14px;
+   }
+   .card-an p:nth-child(2){
+       font-size: 1.4rem;
+   }
+   .card-imgg img{
+       width: 20rem;
+   }
+   .card-imgg p{
+       width: 20rem;
+       text-align: justify;
+       font-size: 14px;
+   }
+   .card-section{
+       /* text-align: center; */
+   }
+   #card-last{
+        margin-bottom: 1rem;;
+   }
+   
+   .about-section {
+        font-size: 13px;
+        text-align: justify;
+        display: none;
+   }
+
+   .tag-section{
+       margin-top: 0;
+   }
+
+   .sectionOf .text{
+       display: none;
+   }
+   .sectionOf img{
+        width: 5rem;
+        transition: 700ms ease-in-out;
+   }
+   /* .sectionOf img:hover{
+        transform: scale(1.02);
+   } */
+   .sectionOf p{
+       font-size: 10px;
+   }
+   .side-section{
+       margin-bottom: 0;
+   }
+
+   .input-section{
+       margin-top: 2rem;
+       padding: 2rem 2rem 2rem 2rem;
+   }
+   .input-section h4{
+       font-size: 1.2rem;
+   }
+   .input-section p{
+       font-size: 14px;
+       padding: 5px 5px 5px 5px;
+   }
+   .input-section input{
+       font-size: 12px;
+       padding: 5px 5px 5px 5px;
+       /* margin: 0 4px 0 4px; */
+       width: 10rem;
+       transition: 700ms ease-in-out;
+   }
+   .input-section button{
+       font-size:12px;
+       padding: 4px 4px 4px 4px;
+       margin-top: 5px;
+   }
+   .input-section input:focus{
+       width: 12rem;
+   }
+   #footer-img{
+       padding-top: 1rem;
+   }
+   #footer-img img{
+        width: 5rem;
+   }
+   .list-nav a{
+    /* color: white; */
+    font-weight: bold;
+    font-size: 9px;
+    }
+    .footer-section p{
+    font-size: 8px;
+    /* padding-bottom: 5px; */
+    font-weight: bold;
+    }
+}  
+ /* @media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+} */

@@ -1,0 +1,118 @@
+.img-head-two img{
+    width: 10rem;
+    margin-left: 10px;
+}
+.part-of-part{
+    /* border-bottom: 1px lightgrey solid; */
+}
+.part-of-part img{
+    transition: 700ms ease-in;
+}
+.part-of-part img:hover{
+    transform: scale(1.02);
+    box-shadow: 0 2px 5px 1px lightgrey;
+}
+.part-anchor P a{
+    text-decoration: none;
+    COLOR: BLACK;
+}
+.part-anchor h4 a{
+    color: black;
+    text-decoration: none;
+    /* padding-bottom: 10px; */
+}
+.part-anchor{
+    padding-bottom: 1rem;
+}
+.parag-section{
+    width: 47rem;
+    margin-top: 1.5rem;
+}
+.parag-section p{
+    font-size: 15px;
+}
+.table-section ul li{
+    font-size: 14px;
+}
+/*  */
+.part-section{
+    margin-bottom: 10rem;
+}
+
+/*  */
+.parag-part-part{
+    width: 40rem;
+    line-height: 1.2rem;
+    font-size: 14px;
+}
+.section-section img{
+    width: 5rem;
+    height: 5rem;
+}
+.parag-section-part p{
+    margin: 0 0 0 30rem;
+    /* float: right; */
+}
+.section-section-part{
+    margin-left: 7rem;
+}
+.section-section-part img{
+    width: 5rem;
+    height: 5rem;
+    box-shadow: 0 2px 5px 2px lightgray;
+}
+.parag-part-part-parag{
+    width: 33rem;
+    line-height: 1.2rem;
+    font-size: 14px;
+}
+.parag-section-part-part p{
+    margin: 0 0 0 23rem;
+}
+.comment-section{
+    margin-top: 3rem;
+}
+.comment-section-part{
+    background-color: #f2f4f5;
+    padding: 1px 0 0 4px;
+    width: 48rem;
+    /* margin-left: 1rem; */
+}
+
+#input-section input{
+    width: 22rem;
+    margin-right: 10px; 
+    padding: 5px 5px 5px 5px;
+    font-size: 12px;
+    border: 1px solid lightgrey;
+    margin-bottom: 1rem;
+}
+.input-input{
+    margin-top: 3rem;
+}
+.input-input h5{
+    margin: 0 0 2rem 0;
+}
+.input-input textarea{
+    border:1px solid lightgrey;
+    padding: 5px 5px 5px 5px;
+    width: 44.5rem;
+    font-size: 12px;
+    height: 8rem;
+}
+.input-input button{
+    border: none;
+    font-size: 14px;
+    transform: scale(1.02);
+
+}
+#footer-img-img{
+    background-color: #333;
+}
+#footer-img-img img{
+    width: 5rem;
+    transition: 700ms ease;
+}
+#footer-img-img img:hover{
+    transform: scale(1.04);
+}
